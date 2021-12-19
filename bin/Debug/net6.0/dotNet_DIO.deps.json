@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "dotNet_DIO/1.0.0": {
+        "runtime": {
+          "dotNet_DIO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotNet_DIO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
